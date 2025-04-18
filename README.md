@@ -1,5 +1,7 @@
 # 📚 Online Bookstore SQL Project 🚀
 
+![Built With](https://img.shields.io/badge/Built%20With-SQL-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![License](https://img.shields.io/badge/License-MIT-yellow)
+
 <p align="center">
   <img src="logo.png" width="200" alt="Project Logo">
 </p>
@@ -7,6 +9,29 @@
 ## 📢 About This Project
 
 This repository contains an SQL-based Online Bookstore Data Analysis project. It involves analyzing book sales, customer data, and revenue insights using SQL queries. The dataset includes details about books, customers, and orders.
+
+---
+## 🧠 Project Summary
+
+This project demonstrates essential SQL skills such as:
+
+- 🧹 **Data Cleaning & Transformation**
+- 📈 **Sales & Revenue Insights**
+- 👤 **Customer Behavior Analysis**
+- 🧾 **Inventory & Stock Management**
+- 📊 **SQL Practice for Real-World Scenarios**
+
+---
+
+## 🗂️ Dataset Overview
+
+The project is based on a simplified database of an online bookstore. It includes:
+
+| Table     | Description                                |
+|-----------|--------------------------------------------|
+| 📖 `Books`     | Contains book details, genre, price, and stock |
+| 👤 `Customers` | Stores customer information and location     |
+| 🛒 `Orders`    | Includes order date, quantity, and amount     |
 
 ---
 
@@ -21,17 +46,7 @@ This repository contains an SQL-based Online Bookstore Data Analysis project. It
 ✅ Practice SQL queries for data-driven decision-making.
 
 ---
-## 📂 Dataset Overview
 
-The dataset consists of three main tables:
-
-📖 Books (Book details, Genre, Price, Stock)
-
-👤 Customers (Customer information, Location, Contact)
-
-🛒 Orders (Purchase history, Quantity, Total amount)
-
----
 ## 🏛 Database Schema
 
 The following schema represents the structure of the Online Bookstore dataset:
@@ -275,5 +290,9 @@ ORDER BY b.book_id;
 
 
 
+
+---
+
+Let me know if you'd like help uploading the banner or separating your SQL queries into `.sql` files for even more structure.
 
 
