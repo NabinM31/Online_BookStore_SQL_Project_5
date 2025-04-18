@@ -292,7 +292,13 @@ ORDER BY b.book_id;
 
 
 ---
+---
 
-Let me know if you'd like help uploading the banner or separating your SQL queries into `.sql` files for even more structure.
+🌟 **Thanks for stopping by!**  
+If you found this project insightful, feel free to ⭐ star it, fork it, or connect with me on GitHub for more cool SQL and data analytics projects.  
+Let’s turn **data into decisions** together! 💡📊💻
+
+> _“Data is a precious thing and will last longer than the systems themselves.”_ – Tim Berners-Lee
+
 
 
